@@ -14,7 +14,7 @@ import os
 import cv2
 
 #specifying folder path and extension for where images are stored
-folder_path = 'D:/OneDrive - University of Georgia/School/Classes/ELEE6280 - Intro Robotics/Assignment 1/first_200_right'
+folder_path = 'add your path here'
 extension = '.png'
 
 #load images into an array, use os.listdir to access folder path and read images in loop
